@@ -1,1 +1,0 @@
-Git rebase is used to move or replay commits from one branch onto another branch. Instead of creating a merge commit, rebase rewrites the commit history to make it appear as if the changes were made on top of the latest version of the target branch.
