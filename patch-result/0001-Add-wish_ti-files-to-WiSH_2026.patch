@@ -1,0 +1,25 @@
+From efa98173908f088655ed253228983042ad81ae05 Mon Sep 17 00:00:00 2001
+From: diyadibyanshi2024-ux <diya.dibyanshi2024@vitstudent.ac.in>
+Date: Tue, 2 Jun 2026 17:12:11 +0530
+Subject: [PATCH 1/7] Add wish_ti files to WiSH_2026
+
+---
+ WiSH_2026/wish_ti.txt      | 1 +
+ WiSH_2026/wish_ti_temp.txt | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 WiSH_2026/wish_ti.txt
+ create mode 100644 WiSH_2026/wish_ti_temp.txt
+
+diff --git a/WiSH_2026/wish_ti.txt b/WiSH_2026/wish_ti.txt
+new file mode 100644
+index 0000000..5bc9ddd
+--- /dev/null
++++ b/WiSH_2026/wish_ti.txt
+@@ -0,0 +1 @@
++hi! Myself Diya...I m a wish participant
+diff --git a/WiSH_2026/wish_ti_temp.txt b/WiSH_2026/wish_ti_temp.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.51.0.windows.1
+

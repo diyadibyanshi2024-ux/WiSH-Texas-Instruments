@@ -1,0 +1,20 @@
+From 17e0414914d3c69e4d561fdabcf925edf4164ba6 Mon Sep 17 00:00:00 2001
+From: diyadibyanshi2024-ux <diya.dibyanshi2024@vitstudent.ac.in>
+Date: Tue, 2 Jun 2026 21:06:46 +0530
+Subject: [PATCH 7/7] Add stash.txt
+
+---
+ stash.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stash.txt
+
+diff --git a/stash.txt b/stash.txt
+new file mode 100644
+index 0000000..357f3cf
+--- /dev/null
++++ b/stash.txt
+@@ -0,0 +1 @@
++Git commit permanently saves changes to the repository history, creating a new commit that can be shared with others. Git stash temporarily stores uncommitted changes without creating a commit, allowing the user to switch branches or perform other tasks. Stashed changes can be restored later using git stash apply or git stash pop.
+-- 
+2.51.0.windows.1
+

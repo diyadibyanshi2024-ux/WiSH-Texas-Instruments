@@ -1,0 +1,25 @@
+From 3f75bd8203819aeedf412cc5e56d05df2f61569a Mon Sep 17 00:00:00 2001
+From: diyadibyanshi2024-ux <diya.dibyanshi2024@vitstudent.ac.in>
+Date: Tue, 2 Jun 2026 20:56:55 +0530
+Subject: [PATCH 6/7] Correct rebase note file
+
+---
+ rebase | 1 -
+ txt    | 0
+ 2 files changed, 1 deletion(-)
+ delete mode 100644 rebase
+ delete mode 100644 txt
+
+diff --git a/rebase b/rebase
+deleted file mode 100644
+index bf0d2fa..0000000
+--- a/rebase
++++ /dev/null
+@@ -1 +0,0 @@
+-Git rebase is used to move or replay commits from one branch onto another branch. Instead of creating a merge commit, rebase rewrites the commit history to make it appear as if the changes were made on top of the latest version of the target branch.
+diff --git a/txt b/txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.51.0.windows.1
+

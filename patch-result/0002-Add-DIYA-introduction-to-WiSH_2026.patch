@@ -1,0 +1,23 @@
+From 78c1437013c5da00015c415811d3b9dcb19f9219 Mon Sep 17 00:00:00 2001
+From: diyadibyanshi2024-ux <diya.dibyanshi2024@vitstudent.ac.in>
+Date: Tue, 2 Jun 2026 17:35:45 +0530
+Subject: [PATCH 2/7] Add DIYA introduction to WiSH_2026
+
+---
+ WiSH_2026/introductions/DIYA.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 WiSH_2026/introductions/DIYA.txt
+
+diff --git a/WiSH_2026/introductions/DIYA.txt b/WiSH_2026/introductions/DIYA.txt
+new file mode 100644
+index 0000000..57a8b1b
+--- /dev/null
++++ b/WiSH_2026/introductions/DIYA.txt
+@@ -0,0 +1,4 @@
++Hi! I am Diya Dibyanshi
++diyadibyanshi48.gmail.com
++I am an embedded systems, semiconductor and automation enthusiast.
++My motive to have joined WiSH is to get to learn from the all the intellectuals if TI and have industry level understanding of how things work
+-- 
+2.51.0.windows.1
+

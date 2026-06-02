@@ -1,0 +1,28 @@
+From efdecf087ababe5009dc3f4ad251b3547805a8c9 Mon Sep 17 00:00:00 2001
+From: diyadibyanshi2024-ux <diya.dibyanshi2024@vitstudent.ac.in>
+Date: Tue, 2 Jun 2026 19:19:40 +0530
+Subject: [PATCH 3/7] Add hobbies file
+
+---
+ WiSH_2026/hobbies | 4 ++++
+ WiSH_2026/txt     | 0
+ 2 files changed, 4 insertions(+)
+ create mode 100644 WiSH_2026/hobbies
+ create mode 100644 WiSH_2026/txt
+
+diff --git a/WiSH_2026/hobbies b/WiSH_2026/hobbies
+new file mode 100644
+index 0000000..e1dc1d3
+--- /dev/null
++++ b/WiSH_2026/hobbies
+@@ -0,0 +1,4 @@
++Danging
++Singing
++Badminton
++Reading
+diff --git a/WiSH_2026/txt b/WiSH_2026/txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.51.0.windows.1
+
