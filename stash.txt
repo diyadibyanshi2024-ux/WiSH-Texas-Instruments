@@ -1,0 +1,1 @@
+Git commit permanently saves changes to the repository history, creating a new commit that can be shared with others. Git stash temporarily stores uncommitted changes without creating a commit, allowing the user to switch branches or perform other tasks. Stashed changes can be restored later using git stash apply or git stash pop.
